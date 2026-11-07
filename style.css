@@ -17,3 +17,4 @@ input,textarea,select{width:100%;font:inherit;padding:9px;border:1px solid #bcd;
 .disc{font-size:12px;color:#567;margin:18px 0 6px}.src{font-size:12px;color:#567;word-break:break-word}
 .muted{color:#678;font-size:13px}.hid{opacity:.5}.ed{background:#fff;border:1px solid #d6e3ea;border-radius:12px;padding:10px;margin:8px 0}
 .status{font-size:13px;margin:6px 0}
+.tile{display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start}#q{margin-bottom:10px}
